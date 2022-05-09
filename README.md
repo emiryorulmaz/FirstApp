@@ -1,4 +1,4 @@
-# project_again
+# First Flutter App
 
 A new Flutter project.
 
@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The purpose of the Flutter project is to calculate the body mass index using the user's height and weight information.
